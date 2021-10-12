@@ -1,0 +1,3 @@
+ana estudante 20
+aristotele cientista 1000
+nao entra professor 30
