@@ -1,4 +1,4 @@
-### Instruções sobre o Menu:
+# Instruções sobre o Menu:
 
 1. Inserir paciente
 2. Buscar paciente

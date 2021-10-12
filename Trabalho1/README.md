@@ -1,4 +1,4 @@
-### Instruções sobre o Menu:
+# Instruções sobre o Menu:
 
 1. Mostra a media movel do Brasil
 2. Mostra media movel dos estados

@@ -1,4 +1,4 @@
-### Instruções sobre o Menu:
+# Instruções sobre o Menu:
 
 > A opção deve ser passada por linha de comando.
 > Exemplo: ./symmetric-graph 1
