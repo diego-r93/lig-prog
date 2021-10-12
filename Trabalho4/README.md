@@ -13,12 +13,12 @@
 
 ## Compilação:
 
-> Para compilar digite <i> make patients </i> ou <i> make all </i>. 
+> Para compilar digite ```make patients``` ou ```make all```. 
 
-> Para executar digite <i> ./patients</i>
+> Para executar digite ```./patients```
 
-> Para remover os arquivos objetos e o executável digite <i> make clean </i>.
+> Para remover os arquivos objetos e o executável digite ```make clean```.
 
-> O Compilador default é o g++. Caso queira utilizar o clang++ digite <i> make all compiler=CLANG </i>.
+> O Compilador default é o g++. Caso queira utilizar o clang++ digite ```make all compiler=CLANG```.
 
-> O padrão default é o C++11. Caso queira utilizar outro digite <i> make all dialect=C++14 </i> ou <i> make all dialect=C++17 </i>.
+> O padrão default é o C++11. Caso queira utilizar outro digite ```make all dialect=C++14``` ou ```make all dialect=C++17```.

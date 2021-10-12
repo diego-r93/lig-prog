@@ -13,13 +13,13 @@
 
 ## Compilação:
 
-> Para compilar digite <i> make covid-update </i> ou <i> make all </i>. 
+> Para compilar digite ```make covid-update``` ou ```make all```
 
-> Para executar digite <i> ./covid-update </i>
+> Para executar digite ```./covid-update```
 
-> Para remover os arquivos objetos e o executável digite <i> make clean </i>.
+> Para remover os arquivos objetos e o executável digite ```make clean```.
 
-> O Compilador default é o g++. Caso queira utilizar o clang++ digite <i> make all compiler=CLANG </i>.
+> O Compilador default é o g++. Caso queira utilizar o clang++ digite ```make all compiler=CLANG```.
 
 ## Dados:
 

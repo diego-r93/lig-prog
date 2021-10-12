@@ -1,7 +1,7 @@
 # Instruções sobre o Menu:
 
 > A opção deve ser passada por linha de comando.
-> Exemplo: ./symmetric-graph 1
+> Exemplo: ```./symmetric-graph 1```
 > Executa a opção 1 do menu.
 
 ## Opções do Menu:
@@ -15,13 +15,13 @@
 
 ## Compilação:
 
-> Para compilar digite <i> make symmetric-graph </i> ou <i> make all </i>. 
+> Para compilar digite ```make symmetric-graph``` ou ```make all```. 
 
-> Para executar digite <i> ./symmetric-graph (OPTION) </i>
+> Para executar digite ```./symmetric-graph (OPTION)```
 
-> Para remover os arquivos objetos e o executável digite <i> make clean </i>.
+> Para remover os arquivos objetos e o executável digite ```make clean```.
 
-> O Compilador default é o g++. Caso queira utilizar o clang++ digite <i> make all compiler=CLANG </i>.
+> O Compilador default é o g++. Caso queira utilizar o clang++ digite ```make all compiler=CLANG```.
 
 ## Dados:
 

@@ -1,7 +1,7 @@
 # Instruções sobre o Menu:
 
 > A opção deve ser passada por linha de comando.
-> Exemplo: ./movie-manager 1
+> Exemplo: ```./movie-manager 1```
 > Executa a opção 1 do menu.
 
 ## Opções do Menu:
@@ -15,15 +15,15 @@
 
 ## Compilação:
 
-> Para compilar digite <i> make movie-manager </i> ou <i> make all </i>. 
+> Para compilar digite ```make movie-manager``` ou ```make all```. 
 
-> Para executar digite <i> ./movie-manager (OPTION) </i>
+> Para executar digite ```./movie-manager (OPTION)```
 
-> Para remover os arquivos objetos e o executável digite <i> make clean </i>.
+> Para remover os arquivos objetos e o executável digite ```make clean```.
 
-> O Compilador default é o g++. Caso queira utilizar o clang++ digite <i> make all compiler=CLANG </i>.
+> O Compilador default é o g++. Caso queira utilizar o clang++ digite ```make all compiler=CLANG```.
 
-> O padrão default é o C++11. Caso queira utilizar outro digite <i> make all dialect=C++14 </i> ou <i> make all dialect=C++17 </i>.
+> O padrão default é o C++11. Caso queira utilizar outro digite ```make all dialect=C++14``` ou ```make all dialect=C++17```.
 
 ## Dados:
 
